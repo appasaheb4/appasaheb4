@@ -11,16 +11,13 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 
 <p align="left">
 <a href="https://wa.me/+919260303151">
-<img src="https://img.icons8.com/color/55/000000/whatsapp--v6.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://www.facebook.com/appasaheblakade/">
 <img src="https://avatars.githubusercontent.com/u/69631?s=200&v=4" alt="Facebook" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://twitter.com/Appasah17162326">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://t.me/appasaheb4">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Telegram" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="mailto:onlyappasaheb4@gmail.com">  
 <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Yahoo" height="40" style="vertical-align:top; margin:4px">
@@ -35,6 +32,7 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <p align="left">
 <img src="https://cdn0.iconfinder.com/data/icons/HTML5/128/HTML_Logo.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="Next.js" height="40" style="vertical-align:top; margin:4px">
@@ -63,7 +61,7 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 #### Used
 
 <p align="left">
-<img src="https://img.icons8.com/color/55/000000/mac-client.png" alt="mac" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/mac-client.png" alt="mac" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/windows-512.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/344/kali-linux.png" alt="Kali-linux" height="40" style="vertical-align:top; margin:4px">
