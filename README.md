@@ -72,12 +72,12 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 ![appasaheb4 GitHub stats](https://github-readme-stats.vercel.app/api?username=appasaheb4&count_private=true&stars=true&include_all_commits=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appasaheb4&layout=compact&theme=radical)
 
-<!-- ## 🔱 My favourite projects 🔱
+## 🔱 My favourite projects 🔱
 
-<a href="https://github.com/YousifAbozid/AsgardMarket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YousifAbozid&repo=AsgardMarket&show_owner=true&theme=radical" />
+<a href="https://github.com/appasaheb4/dailyfruits_app.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appasaheb4&repo=AsgardMarket&show_owner=true&theme=radical" />
 </a>
-<a href="https://github.com/YousifAbozid/Memories">
+<!-- <a href="https://github.com/YousifAbozid/Memories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YousifAbozid&repo=Memories&show_owner=true&theme=radical" />
 </a>
 <br>
