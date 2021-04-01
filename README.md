@@ -34,7 +34,10 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/android-os.png" alt="android" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/ios-logo.png" alt="ios" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="Next.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="Express" height="40" style="vertical-align:top; margin:4px">
@@ -83,4 +86,3 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <a href="https://www.limsplussolutions.com/">
   Lims Plus
 </a>
-
