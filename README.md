@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on building an open source web app and cros platform mobile app that help people in real life world with every day's needs.
 - 🤔 I’m looking for help with finding great resources to learn, books to read and projects ideas to build.
 
-
 ## ☎️ Contact Me ☎️
 
 You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi** 👋😊, you are **Welcome** in any of these cases 🥰
@@ -59,6 +58,7 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 ## ☢️ Operating Systems ☢️
 
 #### Used
+
 <p align="left">
 <img src="https://img.icons8.com/ios/344/4a90e2/macbook.png" alt="mac" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/windows-512.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
@@ -73,13 +73,13 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 
 ## 🔱 My favourite projects 🔱
 
-<a href="https://github.com/appasaheb4/dailyfruits_app.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=appasaheb4&repo=AsgardMarket&show_owner=true&theme=radical" />
+<a href="https://memetoons.me/">
+  Memetoons
 </a>
-<!-- <a href="https://github.com/YousifAbozid/Memories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YousifAbozid&repo=Memories&show_owner=true&theme=radical" />
+<a href="https://www.dailyfruits.in/">
+  Daily Frutis
 </a>
-<br>
-<a href="https://github.com/YousifAbozid/UrlShrinker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YousifAbozid&repo=UrlShrinker&show_owner=true&theme=radical" />
-</a> -->
+<a href="https://www.limsplussolutions.com/">
+  Lims Plus
+</a>
+
