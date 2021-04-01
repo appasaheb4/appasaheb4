@@ -36,6 +36,8 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux" height="40" style="vertical-align:top; margin:4px">
+<img src="https://mobx.js.org/img/mobx.png" alt="mobx" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="android" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/48/000000/ios-logo.png" alt="ios" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="Next.js" height="40" style="vertical-align:top; margin:4px">
