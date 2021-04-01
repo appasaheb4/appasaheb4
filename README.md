@@ -1,7 +1,9 @@
 # Hi I'm Appasaheb 👋
 
 - 🔭 I’m currently working remotely.
-- 🌱 I’m currently learning Next.js and Docker.
+- 🏄 Total it experience 5 years.
+- 🧑‍💻 Current role SR.MERN Stack Developer
+- 🌱 I’m currently learning Docker.
 - 👯 I’m looking to collaborate on building an open source web app and cros platform mobile app that help people in real life world with every day's needs.
 - 🤔 I’m looking for help with finding great resources to learn, books to read and projects ideas to build.
 
@@ -49,6 +51,9 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 ## ☢️ Deployment ☢️
 
 <p align="left">
+<img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="gcp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png" alt="Heroku" height="40" style="vertical-align:top; margin:4px">
 <img src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" alt="Netlify" height="40" style="vertical-align:top; margin:4px">
 </p>
@@ -58,6 +63,8 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="Chrome" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/xcode.png" alt="xcode" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/android-os.png" alt="android studio" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
 
