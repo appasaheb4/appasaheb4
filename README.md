@@ -20,8 +20,8 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <a href="https://t.me/appasaheb4">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Telegram" height="40" style="vertical-align:top; margin:4px">
 </a>
-<a href="mailto:onlyappasaheb4@gmail.com">
-<img src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/yahoo-512.png" alt="Yahoo" height="40" style="vertical-align:top; margin:4px">
+<a href="mailto:onlyappasaheb4@gmail.com">  
+<img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Yahoo" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://www.linkedin.com/in/appasaheb-lakade-38a27077/">
 <img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
