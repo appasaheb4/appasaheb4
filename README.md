@@ -61,7 +61,7 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 
 #### Used
 <p align="left">
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/macbook" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/344/macbook.png" alt="mac" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/windows-512.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/344/kali-linux.png" alt="Kali-linux" height="40" style="vertical-align:top; margin:4px">
