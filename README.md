@@ -4,7 +4,7 @@
 - 🏄 Total it experience 5+ years.
 - 🧑‍💻 Current role SR.MERN Stack Developer
 - 🌱 I’m currently learning Docker.
-- 👯 I’m looking to collaborate on building an open source web app and cros platform mobile app that help people in real life world with every day's needs.
+- 👯 I’m looking to collaborate on building an open source web app and cross platform mobile app that help people in real life world with every day's needs.
 - 🤔 I’m looking for help with finding great resources to learn, books to read and projects ideas to build.
 
 ## ☎️ Contact Me ☎️
@@ -90,7 +90,7 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
   Memetoons
 </a>
 <a href="https://www.dailyfruits.in/">
-  Daily Frutis
+  Daily Fruits
 </a>
 <a href="https://www.limsplussolutions.com/">
   Lims Plus
