@@ -1,8 +1,9 @@
 # Hi I'm Appasaheb 👋
 
 - 🔭 I’m currently working remotely.
-- 🏄 Total it experience 5+ years.
-- 🧑‍💻 Current role SR.MERN Stack Developer
+- 💻 📱 I’m a web and cross-platform mobile developer
+- ❤ My favorite stack is Typescript, React, React Native, Redux-Saga, Mobx,  Nextjs, serverless backend such as Firebase and Amazon Web Services, Azure, Tailwind,Restyle UI, Material UI, Expo, Netlify
+- 🧑‍💻 Current role MERN Stack Developer
 - 🌱 I’m currently learning Docker.
 - 👯 I’m looking to collaborate on building an open source web app and cross platform mobile app that help people in real life world with every day's needs.
 - 🤔 I’m looking for help with finding great resources to learn, books to read and projects ideas to build.
