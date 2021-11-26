@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working remotely.
 - 💻 📱 I’m a web and cross-platform mobile apps developer
-- ❤ My favorite stack is Typescript, React, React Native, Redux-Saga, Mobx,  Nextjs, serverless backend such as Firebase, Amazon Web Services and Azure, Tailwind, Restyle UI(@shopify/restyle,https://styled-system.com), Material UI, Expo, Netlify
+- ❤ My favorite stack is Typescript, React, Nextjs, React Native CLI & EXPO, Redux-Saga, Mobx, Node, NestJS, Graphql, TypeORM, serverless backend such as Firebase, Amazon Web Services and Azure, Tailwind, Restyle UI(@shopify/restyle), 
 - 🧑‍💻 Current role MERN Stack Developer
-- 🌱 I’m currently learning Docker.
+- 🌱 I’m currently learning Docker, Cryptocurrency.
 - 👯 I’m looking to collaborate on building an open source web app and cross platform mobile app that help people in real life world with every day's needs.
 - 🤔 I’m looking for help with finding great resources to learn, books to read and projects ideas to build.
 
@@ -13,9 +13,6 @@
 You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi** 👋😊, you are **Welcome** in any of these cases 🥰
 
 <p align="left">
-<a href="https://wa.me/+919260303151">
-<img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px">
-</a>
 <a href="https://www.facebook.com/appasaheblakade/">
 <img src="https://avatars.githubusercontent.com/u/69631?s=200&v=4" alt="Facebook" height="40" style="vertical-align:top; margin:4px">
 </a>
