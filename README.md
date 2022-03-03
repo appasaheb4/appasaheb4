@@ -1,6 +1,6 @@
 # Hi I'm Appasaheb 👋
 
-- 🔭 I’m currently working remotely.
+- 🧑‍💻 I’m currently working remotely.
 - 💻 📱 I’m a web and cross-platform mobile apps developer
 - ❤ My favorite stack is Typescript, React, Nextjs, React Native CLI & EXPO, Redux-Saga, Mobx, Node, NestJS, Graphql, TypeORM, serverless backend such as Firebase, Amazon Web Services and Azure, Tailwind, Restyle UI(@shopify/restyle), 
 - 🧑‍💻 Current role MERN Stack Developer
