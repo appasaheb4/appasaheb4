@@ -96,6 +96,6 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <a href="https://www.dailyfruits.in/">
   Daily Fruits
 </a>
-<a href="https://www.limsplussolutions.com/">
+<a href="https://lims-plus-854e4.web.app/">
   Lims Plus
 </a>
