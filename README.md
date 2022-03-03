@@ -86,7 +86,7 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 ## ✅ My GitHub Stats ✅
 
 ![appasaheb4 GitHub stats](https://github-readme-stats.vercel.app/api?username=appasaheb4&count_private=true&stars=true&include_all_commits=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appasaheb4&layout=compact&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appasaheb4&layout=compact&theme=radical) -->
 
 ## 🔱 My favourite projects 🔱
 
