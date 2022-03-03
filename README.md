@@ -67,9 +67,6 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 </p>
 
 ## ☢️ Operating Systems ☢️
-
-#### Used
-
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/mac-client.png" alt="mac" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/windows-512.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
