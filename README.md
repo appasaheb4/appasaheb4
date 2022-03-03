@@ -77,6 +77,15 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <img src="https://img.icons8.com/color/344/kali-linux.png" alt="Kali-linux" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+
+## ☢️ NPM packages ☢️
+<a href="https://www.npmjs.com/search?q=tech-abl">
+<img src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" alt="npm" height="40" style="vertical-align:top; margin:4px">
+</a>
+
+
+
+
 ## ✅ My GitHub Stats ✅
 
 ![appasaheb4 GitHub stats](https://github-readme-stats.vercel.app/api?username=appasaheb4&count_private=true&stars=true&include_all_commits=true&show_icons=true&theme=radical)
