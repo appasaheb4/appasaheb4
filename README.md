@@ -1,12 +1,13 @@
 # Hi I'm Appasaheb 👋
 
 - 🧑‍💻 I’m currently working remotely.
-- 💻 📱 I’m a web and cross-platform mobile apps developer
-- ❤ My favorite stack is Typescript, React, Nextjs, React Native CLI & EXPO, Redux-Saga, Mobx, Node, NestJS, Graphql, TypeORM, serverless backend such as Firebase, Amazon Web Services and Azure, Tailwind, Restyle UI(@shopify/restyle), 
+- 💻 📱 I’m a Devops, Web and Mobile apps developer
+- ❤ My favorite stack is Typescript, React, Nextjs, React Native CLI & EXPO, Redux-Saga, Mobx, Node, NestJS, Graphql, TypeORM, Devops, serverless backend such as Firebase, AWS and Azure, Tailwind, Restyle UI(@shopify/restyle),
 - 🧑‍💻 Current role MERN Stack Developer
-- 🌱 I’m currently learning Docker, Cryptocurrency.
-- 👯 I’m looking to collaborate on building an open source web app and cross platform mobile app that help people in real life world with every day's needs.
+- 🌱 I’m currently learning Docker,K8n, Cryptocurrency.
+- 👯 I’m looking to collaborate on building an open source web app and mobile app that help people in real life world with every day's needs.
 - 🤔 I’m looking for help with finding great resources to learn, books to read and projects ideas to build.
+- 📦 I’m creating own npm public packages for helpful to other developer. 👉 (https://www.npmjs.com/search?q=tech-abl)
 
 ## ☎️ Contact Me ☎️
 
@@ -67,6 +68,7 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 </p>
 
 ## ☢️ Operating Systems ☢️
+
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/mac-client.png" alt="mac" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/windows-512.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
@@ -74,18 +76,10 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 <img src="https://img.icons8.com/color/344/kali-linux.png" alt="Kali-linux" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-
-## ☢️ NPM packages ☢️
-<a href="https://www.npmjs.com/search?q=tech-abl">
-<img src="https://avatars.githubusercontent.com/u/6078720?s=200&v=4" alt="npm" height="40" style="vertical-align:top; margin:4px">
-</a>
-
-
-
-
 ## ✅ My GitHub Stats ✅
 
 ![appasaheb4 GitHub stats](https://github-readme-stats.vercel.app/api?username=appasaheb4&count_private=true&stars=true&include_all_commits=true&show_icons=true&theme=radical)
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appasaheb4&layout=compact&theme=radical) -->
 
 ## 🔱 My favourite projects 🔱
