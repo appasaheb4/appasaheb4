@@ -2,7 +2,7 @@
 
 - 🧑‍💻 I’m currently working remotely.
 - 💻 📱 I’m a Devops, Web and Mobile apps developer
-- ❤ My favorite stack is Typescript, React, Nextjs, React Native CLI & EXPO, Redux-Saga, Mobx, Node, NestJS, Graphql, TypeORM, Devops, serverless backend such as Firebase, AWS and Azure, Tailwind, Restyle UI(@shopify/restyle),
+- ❤ My favorite stack is Typescript, React, Nextjs, React Native CLI & EXPO, Electron, Redux-Saga, Mobx, Node, NestJS, Graphql, TypeORM, Devops, serverless backend such as Firebase, AWS and Azure, Tailwind, Restyle UI(@shopify/restyle),
 - 🧑‍💻 Current role MERN Stack Developer
 - 🌱 I’m currently learning Docker,K8n, Cryptocurrency.
 - 👯 I’m looking to collaborate on building an open source web app and mobile app that help people in real life world with every day's needs.
