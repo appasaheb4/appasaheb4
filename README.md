@@ -13,7 +13,7 @@
 
 You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi** 👋😊, you are **Welcome** in any of these cases 🥰
 
-<p align="left">
+<p align="center">
 <a href="https://www.tech-abl.com">
 <img src="https://img.freepik.com/premium-vector/globe-icon-with-gradient-purple-effect_197792-4858.jpg" alt="Site" height="60" style="vertical-align:top; margin:4px">
 </a>
