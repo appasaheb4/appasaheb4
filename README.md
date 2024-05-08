@@ -14,17 +14,17 @@
 You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi** 👋😊, you are **Welcome** in any of these cases 🥰
 
 <p align="left">
-<a href="https://www.tech-abl.com" >
-<img src="https://img.freepik.com/premium-vector/globe-icon-with-gradient-purple-effect_197792-4858.jpg" alt="Site" height="60" style="vertical-align:center;">
+<a href="https://www.tech-abl.com">
+<img src="https://img.freepik.com/premium-vector/globe-icon-with-gradient-purple-effect_197792-4858.jpg" alt="Site" height="60" style="vertical-align:center; margin:4px;">
 </a>
 <a href="https://www.linkedin.com/in/appasaheb-lakade-38a27077/">
-<img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px;">
+<img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" alt="LinkedIn" height="60" style="vertical-align:top; margin:4px;">
 </a>
 <a href="https://www.facebook.com/appasaheblakade/">
-<img src="https://avatars.githubusercontent.com/u/69631?s=200&v=4" alt="Facebook" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/69631?s=200&v=4" alt="Facebook" height="60" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://twitter.com/Appasah17162326">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="Twitter" height="60" style="vertical-align:top; margin:4px">
 </a>
 </p>
 
