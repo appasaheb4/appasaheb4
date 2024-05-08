@@ -1,41 +1,41 @@
 # Hi I'm Appasaheb 👋
 
 - 🧑‍💻 I’m currently working remotely.
-- 💻 📱 I’m a Devops, Web and Mobile apps developer
-- ❤ My favorite stack is Typescript, React, Nextjs, React Native CLI & EXPO, Electron, Redux-Saga, Mobx, Node, NestJS, Graphql, TypeORM, Devops, serverless backend such as Firebase, AWS and Azure, Tailwind, Restyle UI(@shopify/restyle),
+- 💻 📱 I’m a Full Stack Developer (React-Native| MERN | DevOps | Architecture)
+- ❤ My favorite stack is Typescript, React Native, React, Nextjs, CLI & EXPO, Electron, Redux-Saga, Mobx, Node, NestJS, Graphql, TypeORM, Devops, serverless backend such as Firebase, AWS and Azure, Tailwind, Restyle UI(@shopify/restyle),
 - 🧑‍💻 Current role MERN Stack Developer
-- 🌱 I’m currently learning Docker,K8n, Cryptocurrency.
+- 🌱 I’m currently learning K8n, Cryptocurrency.
 - 👯 I’m looking to collaborate on building an open source web app and mobile app that help people in real life world with every day's needs.
 - 🤔 I’m looking for help with finding great resources to learn, books to read and projects ideas to build.
-- 📦 I’m creating own npm public packages for helpful to other developer. 👉 (https://www.npmjs.com/search?q=tech-abl)
+- 📦 I’m creating own npm public packages for helpful to other developer. 👉 (https://www.npmjs.com/~onlyappasaheb4)
 
-## ☎️ Contact Me ☎️
+## ☎️ Contact Me
 
 You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi** 👋😊, you are **Welcome** in any of these cases 🥰
 
 <p align="left">
+<a href="https://www.tech-abl.com">
+<img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" alt="Site" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="https://www.linkedin.com/in/appasaheb-lakade-38a27077/">
+<img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
+</a>
 <a href="https://www.facebook.com/appasaheblakade/">
 <img src="https://avatars.githubusercontent.com/u/69631?s=200&v=4" alt="Facebook" height="40" style="vertical-align:top; margin:4px">
 </a>
 <a href="https://twitter.com/Appasah17162326">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px">
 </a>
-<a href="mailto:onlyappasaheb4@gmail.com">  
-<img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Yahoo" height="40" style="vertical-align:top; margin:4px">
-</a>
-<a href="https://www.linkedin.com/in/appasaheb-lakade-38a27077/">
-<img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
-</a>
 </p>
 
-## ☢️ Languages, frameworks and Databases ☢️
+<!-- ## ☢️ Languages, frameworks and Databases ☢️
 
 <p align="left">
 <img src="https://cdn0.iconfinder.com/data/icons/HTML5/128/HTML_Logo.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux" height="40" style="vertical-align:top; margin:4px">
 <img src="https://mobx.js.org/img/mobx.png" alt="mobx" height="40" style="vertical-align:top; margin:4px">
@@ -78,11 +78,11 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 
 ## ✅ My GitHub Stats ✅
 
-![appasaheb4 GitHub stats](https://github-readme-stats.vercel.app/api?username=appasaheb4&count_private=true&stars=true&include_all_commits=true&show_icons=true&theme=radical)
+![appasaheb4 GitHub stats](https://github-readme-stats.vercel.app/api?username=appasaheb4&count_private=true&stars=true&include_all_commits=true&show_icons=true&theme=radical) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appasaheb4&layout=compact&theme=radical) -->
 
-## 🔱 My favourite projects 🔱
+<!-- ## 🔱 My favourite projects 🔱
 
 <a href="https://memetoons.me/">
   Memetoons
@@ -92,4 +92,4 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 </a>
 <a href="https://lims-plus-854e4.web.app/">
   Lims Plus
-</a>
+</a> -->
