@@ -15,7 +15,7 @@ You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi*
 
 <p align="left">
 <a href="https://www.tech-abl.com">
-<img src="https://e7.pngegg.com/pngimages/798/799/png-clipart-web-development-logo-world-wide-web-website-web-symbol-s-web-design-symmetry.png" alt="Site" height="60" style="vertical-align:center; margin:4px;">
+<img src="https://e7.pngegg.com/pngimages/798/799/png-clipart-web-development-logo-world-wide-web-website-web-symbol-s-web-design-symmetry.png" alt="Site" height="40" style="vertical-align:center; margin:4px;">
 </a>
 <a href="https://www.linkedin.com/in/appasaheb-lakade-38a27077/">
 <img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px;">
