@@ -14,8 +14,8 @@
 You can contact me about **Hiring**, **Exchange Knowledge** or just to say **Hi** 👋😊, you are **Welcome** in any of these cases 🥰
 
 <p align="left">
-<a href="https://www.tech-abl.com" style="margin-top: 10px;">
-<img src="https://img.freepik.com/premium-vector/globe-icon-with-gradient-purple-effect_197792-4858.jpg" alt="Site" height="60" style="vertical-align:center; margin:4px;">
+<a href="https://www.tech-abl.com" >
+<img src="https://img.freepik.com/premium-vector/globe-icon-with-gradient-purple-effect_197792-4858.jpg" alt="Site" height="60" style="vertical-align:center;">
 </a>
 <a href="https://www.linkedin.com/in/appasaheb-lakade-38a27077/">
 <img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px;">
